@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # Desktop Services Store
-.DS_Store
+*.DS_Store
 
 # Java Archive files
-.jar
+*.jar

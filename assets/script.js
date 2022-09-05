@@ -29,12 +29,3 @@ listTopics();
 
 console.log('Which topic should we study first?');
 selectTopic(randomTopic);
-/* ??? what is this?
-var canvas = document.getElementById("canvas");
-
-canvas.width = window.innerWidth;
-
-canvas.height = window.innerHeight;
-
-var ctx = canvas.getContext("2d");
-*/

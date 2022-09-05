@@ -8,7 +8,7 @@ It was made for the purpose of learning and practicing web development in all as
 Currently it's just a location for storing my notes, but eventually will be a full fledge site with fun quips and methods for studying, along with a link to my future portfolio.
 Through the development of this site, I have learned how to utilize HTML, CSS, and JavaScript, coding best practices, and version control via GitHub, alongside proper documentation and deployment methodologies.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)

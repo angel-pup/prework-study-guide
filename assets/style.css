@@ -9,6 +9,15 @@ footer {
     height: 120px;
     background-color: rgb(11, 11, 86);
     color: white;
+    padding: 10px;
+}
+
+header {
+    border-bottom: 5px solid #888888;
+}
+
+footer {
+    border-top: 5px solid #888888;
 }
 
 h1,
@@ -37,6 +46,10 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
+    border: 5px solid rgb(50, 50, 50);
     box-shadow: 5px 10px #888888;
+    background-color:antiquewhite;
+    color: rgb(0, 0, 0);
+    padding-bottom: 20px;
+    padding-top: 5px;
 }
